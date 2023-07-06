@@ -1,16 +1,21 @@
-# rs_onboard
+# Onboard
 
-A new Flutter project.
+Onboard project integrated with Firebase.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get the project up and running on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
+- Firebase Account: [Firebase Console](https://console.firebase.google.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install the dependencies
+4. Set up Firebase
+
+All set..! you are ready to launch..!! 🚀
